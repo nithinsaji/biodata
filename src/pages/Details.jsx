@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { data } from './data'
 import user from "../assets/user.png";
 import pro from "../assets/pro.png";
-import family from "../assets/family.png";
+import family from "../assets/family-icon.png";
 import phone from "../assets/phone.png";
 
 const Details = () => {

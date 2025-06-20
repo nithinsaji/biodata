@@ -19,7 +19,7 @@ export const data = {
     },
     "Family Details" : {
         "Father's Name" : "Saji",
-        "Mother's name" : "Nisha",
+        "Mother's Name" : "Nisha",
         "No. Of Brother" : 1,
         "Brother's Name" : "Libin S (younger)"
     },

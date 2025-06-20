@@ -57,7 +57,7 @@ label, span {
   flex: 1;
 }
 span {
-  font-family: cursive;
+  font-family: "Merienda", serif;
 }
 .heading-section {
   margin-bottom: 30px;
